@@ -61,6 +61,13 @@ Various members of this list have gone out of their way to create this crashing 
                     <sub><b>Twalaght</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/backwardspy">
+                    <img src="https://avatars.githubusercontent.com/u/289746?v=4" width="100;" alt="backwardspy"/>
+                    <br />
+                    <sub><b>backwardspy</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
