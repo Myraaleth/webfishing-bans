@@ -386,3 +386,7 @@
 <a href='https://www.steamidfinder.com/lookup/76561199802241667/'><img src='https://www.steamidfinder.com/signature/76561199802241667.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199153172584/'><img src='https://www.steamidfinder.com/signature/76561199153172584.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199807575343/'><img src='https://www.steamidfinder.com/signature/76561199807575343.png'></a>
+<a href='https://www.steamidfinder.com/lookup/76561199807263177/'><img src='https://www.steamidfinder.com/signature/76561199807263177.png'></a>
+<a href='https://www.steamidfinder.com/lookup/76561199806806969/'><img src='https://www.steamidfinder.com/signature/76561199806806969.png'></a>
+<a href='https://www.steamidfinder.com/lookup/76561199805669685/'><img src='https://www.steamidfinder.com/signature/76561199805669685.png'></a>
+<a href='https://www.steamidfinder.com/lookup/76561197960723152/'><img src='https://www.steamidfinder.com/signature/76561197960723152.png'></a>
